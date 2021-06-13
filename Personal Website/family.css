@@ -1,0 +1,76 @@
+body
+{
+ background-image:url("background.png");
+ background-size: cover;
+}
+
+
+#demotext {
+color: #202c2d;
+background: #FFFFFF;
+text-shadow: 0 1px #808d93, -1px 0 #cdd2d5, -1px 2px #808d93, -2px 1px #cdd2d5, -2px 3px #808d93, -3px 2px #cdd2d5, -3px 4px #808d93, -4px 3px #cdd2d5, -4px 5px #808d93, -5px 4px #cdd2d5, -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93, -8px 7px #cdd2d5;
+color: #202c2d;
+background: #FFFFFF;
+
+-webkit-box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0); 
+box-shadow: 5px 5px 15px 5px #FF8080, -9px 5px 15px 5px #FFE488, -7px -5px 15px 5px #8CFF85, 12px -5px 15px 5px #80C7FF, 12px 10px 15px 7px #E488FF, -10px 10px 15px 7px #FF616B, -10px -7px 27px 1px #8E5CFF, 5px 5px 15px 5px rgba(0,0,0,0);
+background: #3DCF64;
+
+font-size:45; 
+text-align:center;
+ width: 40%;
+ margin-left: 30%; 
+ margin-right: 30%;
+}
+
+p
+{
+ background-color:#F60F71;
+ text-align:center;
+ width: 40%;
+}
+
+#rcorners3 {
+  border-radius: 25px;
+  background: url(https://image.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1092.jpg);
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px; 
+  width: 250px;
+  height: 150px;  
+}
+
+#borderimg1 { 
+  border: 10px solid transparent;
+  width: 115px;
+  padding: 15px;
+  border-image: url(border.png) 30 round;
+}
+
+embed{
+  width: 20%;
+  height: 15%;
+  margin-left: 80%; 
+  margin-right: 5%;
+}
+
+h1{
+ background:#3DCFBA;
+ border-radius: 25px;
+ font-size:25; 
+ text-align:center;
+ width: 20%;
+ margin-left: 80%; 
+ margin-right: 5%;
+ margin-top: -15%;
+}
+
+#img1
+{
+ width:17%;
+ height:30%;
+ margin-top: -10%;
+}
+
+
+
